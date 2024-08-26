@@ -8,3 +8,4 @@ The following tasks were set within the framework of this project:
 - To optimize the loading and performance of the site to ensure fast page loading and a high level of user experience.
   
 The relevance of this work is due to the creation of simple, informative and high-quality web resources that can serve as reliable information for a wide range of users. Knowledge and understanding of the history and cultural heritage of the Nizhny Novgorod Kremlin are important for its preservation and promotion as a landmark and tourist attraction.
+View site: https://ggringoo.github.io/Nizhny-Novgorod-Kremlin-website.io/
